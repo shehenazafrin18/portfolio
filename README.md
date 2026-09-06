@@ -17,9 +17,8 @@ Sequelize • PostgreSQL • MySQL • Docker
 • AI-powered application – Python + FastAPI
 
 📫 Contact
-| shehenazafrin17@gmail.com | GitHub
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/shehenazafrin18">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -27,6 +26,6 @@ Sequelize • PostgreSQL • MySQL • Docker
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:shehenazafrin17@gmail.com">
   <img src="https://img.shields.io/badge/Contact-Me-green?style=for-the-badge" />
 </a>
